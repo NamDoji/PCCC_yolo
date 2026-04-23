@@ -1,1 +1,6 @@
 torch
+ultralytics
+roboflow
+opencv-python
+matplotlib
+pytest
